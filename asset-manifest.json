@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/python_calc_list/static/css/main.f855e6bc.css",
+    "main.js": "/python_calc_list/static/js/main.24ebbe2e.js",
+    "static/js/453.cb034a0e.chunk.js": "/python_calc_list/static/js/453.cb034a0e.chunk.js",
+    "index.html": "/python_calc_list/index.html",
+    "main.f855e6bc.css.map": "/python_calc_list/static/css/main.f855e6bc.css.map",
+    "main.24ebbe2e.js.map": "/python_calc_list/static/js/main.24ebbe2e.js.map",
+    "453.cb034a0e.chunk.js.map": "/python_calc_list/static/js/453.cb034a0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.24ebbe2e.js"
+  ]
+}
